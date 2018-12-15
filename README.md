@@ -74,3 +74,8 @@ Coding Puzzles with Solutions
   03:50 PM Future of Particle Imaging with Muons (Vignette)  
   03:55 PM Architecting the Intelligent Apps Engineer (Vignette)  
   04:00 PM Poster Session and Networking Event (120 min)  
+  
+## 2. FizzBuzz Problem - Library and Console Application
+  For each multiple of 3, print "Fizz" instead of the number  
+  For each multiple of 5, print "Buzz" instead of the number  
+  For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the number  
